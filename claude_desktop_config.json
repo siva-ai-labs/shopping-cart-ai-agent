@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "shopping-cart-server": {
+      "command": "java",
+      "args": [
+        "-jar",
+        "/Users/jyothi/Desktop/ai/ai-powered-fde/shopping-cart-mcp/build/libs/shopping-cart-server.jar"
+      ]
+    }
+  }
+}
